@@ -9,11 +9,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/synicalsyntax/discord.js-heroku.git"
+    "url": "git+https://github.com/wolfiedoesgamin/wolfiebot.git"
   },
   "keywords": [
     "heroku",
@@ -22,9 +22,9 @@
   "author": "synicalsyntax",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/synicalsyntax/discord.js-heroku/issues"
+    "url": "https://github.com/wolfiedoesgamin/wolfiebot"
   },
-  "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme",
+  "homepage": "https://github.com/wolfiedoesgamin/wolfiebot",
   "dependencies": {
     "discord.js": "^11.3.0"
   }
